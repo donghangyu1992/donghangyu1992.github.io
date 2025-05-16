@@ -2,7 +2,7 @@
 layout: page
 ---
 
-# About Me
+# 个人简介
 
 <img src="https://caihanlin.com/caihanlin.jpg" class="floatpic">
 
@@ -16,7 +16,7 @@ If you are interested in any aspect of me, I am always open to discussions and c
 
 ---
 
-## Research Interests
+## 研究领域
 
 - [Internet of Everything](https://scholar.google.com/citations?view_op=search_authors&hl=zh-CN&mauthors=label:internet_of_everything)
 - Molecular Communication
@@ -27,7 +27,7 @@ My current research focuses on practical problems that artificial intelligence f
 
 ---
 
-## News and Updates
+## 最新咨询
 
 - **June 2024**：Very excited to be selected as [KDD UC Scholar](https://kdd2024.kdd.org/undergraduate-consortium/). See you in Spain!
 - **May 2024：**My bachelor thesis won the Annual Best Thesis Award (Top 1/300).
