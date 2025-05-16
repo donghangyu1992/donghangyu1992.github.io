@@ -4,7 +4,7 @@ layout: page
 
 # 个人简介
 
-<img src="https://caihanlin.com/caihanlin.jpg" class="floatpic">
+<img src="https://donghangyu1992.github.io/images/donghangyu.jpg" class="floatpic">
 
 Here is **Dong Hangyu (董航宇)**.<br>
 
