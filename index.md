@@ -8,7 +8,7 @@ layout: page
 
 Here is **Dong Hangyu (董航宇)**.<br>
 
-董航宇，博士，硕士生导师，华北水利水电大学，地球科学与工程学院。自2014年起，一直从事于岩土工程灾害致灾机理方面的研究工作，获**中国冶金教育学会优秀博士学位论文**，师从东北大学[朱万成](http://faculty.neu.edu.cn/zhuwancheng/zh_CN/index.htm) 教授和河南理工大学[郭保华](https://sese.hpu.edu.cn/info/1199/5128.htm) 教授。先后主持了**教育部中央高校基本科研业务费项目**，**河南省自然科学基金青年基金项目**，以及**深部煤炭资源智能绿色开采安徽省联合共建学科重点实验室开放课题**等多项纵向及横向课题。在RMRE、JRMGE、采矿与岩层控制工程学报等SCI/EI期刊发表论文10余篇。在矿柱稳定性评价及其本构模型建立、岩体结构面粗糙度表征及剪切本构模型研究等相关研究领域取得了原创性成果。<br>
+董航宇，博士，硕士生导师，华北水利水电大学，地球科学与工程学院。自2014年起，一直从事于岩土工程灾害致灾机理方面的研究工作，获**中国冶金教育学会优秀博士学位论文**，师从东北大学[朱万成](http://faculty.neu.edu.cn/zhuwancheng/zh_CN/index.htm)教授和河南理工大学[郭保华](https://sese.hpu.edu.cn/info/1199/5128.htm)教授。先后主持了**教育部中央高校基本科研业务费项目**，**河南省自然科学基金青年基金项目**，以及**深部煤炭资源智能绿色开采安徽省联合共建学科重点实验室开放课题**等多项纵向及横向课题。在RMRE、JRMGE、采矿与岩层控制工程学报等SCI/EI期刊发表论文10余篇。在矿柱稳定性评价及其本构模型建立、岩体结构面粗糙度表征及剪切本构模型研究等相关研究领域取得了原创性成果。<br>
 
 If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at - hc663 [at] cam.ac.uk
 
