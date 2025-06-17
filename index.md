@@ -4,7 +4,7 @@ layout: page
 
 # 个人简介（网站搭建中...）
 
-<img src="https://donghangyu1992.github.io/images/cat.jpg" class="floatpic">
+<img src="https://donghangyu1992.github.io/images/cat.JPG" class="floatpic">
 
 Here is **Dong Hangyu (董航宇)**.<br>
 
